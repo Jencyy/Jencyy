@@ -1,6 +1,6 @@
-![Header Image](https://user-images.githubusercontent.com/yourprofile/banner.gif)
+![Header Image](https://user-images.githubusercontent.com/jencyy/banner.gif)
 
-# Hello there! 👋 I'm [Your Name]!
+# Hello there! 👋 I'm Jency!
 
 💻 Full Stack Developer | 🔥 Passionate about Coding | 🎨 Lover of Elegant UIs
 
@@ -9,32 +9,27 @@ I'm a tech enthusiast who loves to **design elegant solutions** and **develop sc
 🌟 Fun fact: I started my journey building small web apps, and now I'm diving into **cloud computing** and **full-stack development**. Let's connect and create something awesome together!
  | 💻 Passionate Learner | 🌟 Building real-world applications
 
+## Featured Projects
 
-## Projects 🚀
+### 🌟 [Google Contacts Clone App](https://github.com/yourusername/google-contacts-clone)
+A full-fledged contact management app with add, edit, and delete functionalities. Built using React, Redux, Firebase, and json-server. You can store images in Firebase Storage and manage contacts easily.
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Google Contacts Clone](https://github.com/yourusername/google-contacts-clone) | Manage contacts with avatars, CRUD functionality. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge) |
-| [Google Keep Clone](https://github.com/yourusername/google-keep-clone) | A note-taking app with Firebase Authentication. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge) |
-| [Expense Tracker](https://github.com/yourusername/expense-tracker) | Elegant UI for tracking expenses and income. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge) |
+### 🌟 [Expense Tracker](https://github.com/yourusername/expense-tracker)
+Track your expenses and income with this simple yet elegant expense tracker built with Node.js, Express.js, MongoDB, and EJS. It features easy-to-use categorization and transaction reporting.
+
+### 🌟 [Google Keep Clone](https://github.com/yourusername/google-keep-clone)
+A note-taking app built with Firebase, where users can create, edit, delete, archive, and restore notes. The app features user authentication and a smooth UI for an optimal user experience.
+
 
 ## Technologies I Love 💻
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
 </div>
-
-## Latest Activity 💡
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR in [repository-name](https://github.com/yourusername/repository-name)
-2. 🗣 Commented on [issue-name](https://github.com/yourusername/repository-name/issues/1)
-3. 🎉 Merged PR [#1](https://github.com/yourusername/repository-name/pull/1) in [repository-name](https://github.com/yourusername/repository-name)
-<!--END_SECTION:activity-->
 
 ## Fun Facts ✨
 - 🎮 I love gaming and have a passion for game development.
@@ -55,17 +50,6 @@ I’m looking for internship opportunities to grow my skills further and gain in
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-## Featured Projects
-
-### 🌟 [Google Contacts Clone App](https://github.com/yourusername/google-contacts-clone)
-A full-fledged contact management app with add, edit, and delete functionalities. Built using React, Redux, Firebase, and json-server. You can store images in Firebase Storage and manage contacts easily.
-
-### 🌟 [Expense Tracker](https://github.com/yourusername/expense-tracker)
-Track your expenses and income with this simple yet elegant expense tracker built with Node.js, Express.js, MongoDB, and EJS. It features easy-to-use categorization and transaction reporting.
-
-### 🌟 [Google Keep Clone](https://github.com/yourusername/google-keep-clone)
-A note-taking app built with Firebase, where users can create, edit, delete, archive, and restore notes. The app features user authentication and a smooth UI for an optimal user experience.
 
 ## Currently Learning
 - Advanced Node.js and Express.js
