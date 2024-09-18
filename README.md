@@ -1,9 +1,45 @@
 ![Header Image](https://user-images.githubusercontent.com/yourprofile/banner.gif)
 
+# Hello there! 👋 I'm [Your Name]!
 
-# Hi, I'm [Jency]! 👋
+💻 Full Stack Developer | 🔥 Passionate about Coding | 🎨 Lover of Elegant UIs
 
-🚀 Full Stack Developer | 💻 Passionate Learner | 🌟 Building real-world applications
+I'm a tech enthusiast who loves to **design elegant solutions** and **develop scalable applications**. When I'm not coding, you'll find me exploring the latest tech trends, reading about design, or creating a new personal project.
+
+🌟 Fun fact: I started my journey building small web apps, and now I'm diving into **cloud computing** and **full-stack development**. Let's connect and create something awesome together!
+ | 💻 Passionate Learner | 🌟 Building real-world applications
+
+
+## Projects 🚀
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Google Contacts Clone](https://github.com/yourusername/google-contacts-clone) | Manage contacts with avatars, CRUD functionality. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge) |
+| [Google Keep Clone](https://github.com/yourusername/google-keep-clone) | A note-taking app with Firebase Authentication. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge) |
+| [Expense Tracker](https://github.com/yourusername/expense-tracker) | Elegant UI for tracking expenses and income. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge) |
+
+## Technologies I Love 💻
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
+</div>
+
+## Latest Activity 💡
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR in [repository-name](https://github.com/yourusername/repository-name)
+2. 🗣 Commented on [issue-name](https://github.com/yourusername/repository-name/issues/1)
+3. 🎉 Merged PR [#1](https://github.com/yourusername/repository-name/pull/1) in [repository-name](https://github.com/yourusername/repository-name)
+<!--END_SECTION:activity-->
+
+## Fun Facts ✨
+- 🎮 I love gaming and have a passion for game development.
+- 🎨 In my free time, I explore graphic design and digital art.
+- 🍕 I’m always down for a pizza party (with lots of coding).
 
 ## About Me
 I'm a full-stack developer currently learning and creating modern web applications. I love to experiment with new technologies, solve real-world problems, and build innovative projects. Pursuing a diploma in Computer Engineering alongside full-stack development has provided me with a strong technical foundation. 🌱
