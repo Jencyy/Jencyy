@@ -9,6 +9,11 @@ I'm a tech enthusiast who loves to **design elegant solutions** and **develop sc
 🌟 Fun fact: I started my journey building small web apps, and now I'm diving into **cloud computing** and **full-stack development**. Let's connect and create something awesome together!
  | 💻 Passionate Learner | 🌟 Building real-world applications
 
+ ## About Me
+I'm a full-stack developer currently learning and creating modern web applications. I love to experiment with new technologies, solve real-world problems, and build innovative projects. Pursuing a diploma in Computer Engineering alongside full-stack development has provided me with a strong technical foundation. 🌱
+
+I’m looking for internship opportunities to grow my skills further and gain industry experience.
+
 ## Featured Projects
 
 ### 🌟 [Google Contacts Clone App](https://github.com/yourusername/google-contacts-clone)
@@ -36,10 +41,7 @@ A note-taking app built with Firebase, where users can create, edit, delete, arc
 - 🎨 In my free time, I explore graphic design and digital art.
 - 🍕 I’m always down for a pizza party (with lots of coding).
 
-## About Me
-I'm a full-stack developer currently learning and creating modern web applications. I love to experiment with new technologies, solve real-world problems, and build innovative projects. Pursuing a diploma in Computer Engineering alongside full-stack development has provided me with a strong technical foundation. 🌱
 
-I’m looking for internship opportunities to grow my skills further and gain industry experience.
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
