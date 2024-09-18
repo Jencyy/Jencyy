@@ -1,3 +1,6 @@
+![Header Image](https://user-images.githubusercontent.com/yourprofile/banner.gif)
+
+
 # Hi, I'm [Jency]! 👋
 
 🚀 Full Stack Developer | 💻 Passionate Learner | 🌟 Building real-world applications
