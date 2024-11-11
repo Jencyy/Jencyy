@@ -41,12 +41,6 @@ A note-taking app with Firebase integration, allowing users to create, edit, del
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-## Currently Learning
-
-- Advanced Node.js and Express.js
-- Backend frameworks and REST APIs
-- Cloud-based solutions and serverless architecture with Firebase
-
 ## Let's Connect
 
 - 📧 [Email Me](mailto:jencysodvadiya@gmail.com)
