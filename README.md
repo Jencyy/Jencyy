@@ -8,8 +8,6 @@ I’m a full-stack developer dedicated to crafting modern web applications. Purs
 
 I’m on the lookout for internship opportunities to enhance my skills and gain valuable industry experience.
 
-🌟 Fun fact: I began my journey with small web apps and am now diving deep into **cloud computing** and **full-stack development**. Let's connect and create something amazing together!
-
 
 ## Featured Projects
 
@@ -31,12 +29,6 @@ A note-taking app with Firebase integration, allowing users to create, edit, del
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
 </div>
-
-## Fun Facts ✨
-
-- 🎮 I enjoy gaming and have a growing interest in game development.
-- 🎨 I explore graphic design and digital art in my spare time.
-- 🍕 I’m always up for a pizza party (with a side of coding).
 
 ## Tech Stack
 
