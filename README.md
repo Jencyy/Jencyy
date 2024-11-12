@@ -12,16 +12,16 @@ I’m on the lookout for internship opportunities to enhance my skills and gain 
 
 ## Featured Projects
 
-### 🌟 [ERD Project with API](https://github.com/jencyy/erd-project)
+### 🌟 [ERD Project with API](https://github.com/jencyy/ERD)
 An **Entity-Relationship Diagram (ERD)** based project that includes a structured API for data management. This project demonstrates efficient database design with well-defined relationships between entities and an API layer for CRUD operations.
 
-### 🌟 [Blog Post Panel](https://github.com/jencyy/blog-post-panel)
+### 🌟 [Blog Post Panel](https://github.com/jencyy/BlogPostPanel-Node)
 A comprehensive blogging platform with a fully-featured API and an Entity-Relationship Diagram (ERD) for managing blog posts, comments, and user roles. Built with **Node.js**, **Express.js**, **MongoDB**, and **EJS**, it supports user authentication, blog management, and image uploads, focusing on creating a responsive and animated UI.
 
-### 🌟 [Google Keep Clone](https://github.com/jencyy/google-keep-clone)
+### 🌟 [Google Keep Clone](https://github.com/jencyy/Google-Keep)
 A note-taking app with Firebase integration, allowing users to create, edit, delete, archive, and restore notes. Includes user authentication and a sleek UI for a seamless experience.
 
-### 🌟 [Google Contacts Clone App](https://github.com/jencyy/google-contacts-clone)
+### 🌟 [Google Contacts Clone App](https://github.com/jencyy/Google-contact-clone)
 A comprehensive contact management app with functionalities to add, edit, and delete contacts. Built with **React**, **Redux**, **Firebase**, and **json-server**, featuring Firebase Storage for image handling.
 
 ---
