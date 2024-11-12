@@ -1,34 +1,30 @@
 ![Header Image](https://user-images.githubusercontent.com/jencyy/banner.gif)
 
-# Hello there! 👋 I'm Jency!
+# Hello there! 👋 I'm Jency Sodvadiya!
 
 💻 Full Stack Developer | 🔥 Passionate about Coding | 🎨 Lover of Elegant UIs
 
-I’m a full-stack developer dedicated to crafting modern web applications. Pursuing a diploma in Computer Engineering alongside full-stack development has equipped me with a solid technical foundation. 🌱 I'm continuously experimenting with new technologies, solving real-world problems, and building innovative projects.
+I’m a full-stack developer dedicated to crafting modern web applications. Pursuing a diploma in Computer Engineering alongside full-stack development has equipped me with a solid technical foundation. 🌱 I continuously experiment with new technologies, solve real-world problems, and build innovative projects.
 
 I’m on the lookout for internship opportunities to enhance my skills and gain valuable industry experience.
 
+---
 
 ## Featured Projects
 
-### 🌟 [Google Contacts Clone App](https://github.com/yourusername/google-contacts-clone)
-A comprehensive contact management app with functionalities to add, edit, and delete contacts. Built with React, Redux, Firebase, and json-server, featuring Firebase Storage for image handling.
+### 🌟 [ERD Project with API](https://github.com/jencyy/erd-project)
+An **Entity-Relationship Diagram (ERD)** based project that includes a structured API for data management. This project demonstrates efficient database design with well-defined relationships between entities and an API layer for CRUD operations.
 
-### 🌟 [Expense Tracker](https://github.com/yourusername/expense-tracker)
-An elegant expense tracker built with Node.js, Express.js, MongoDB, and EJS. It offers intuitive categorization and transaction reporting for managing your finances effectively.
+### 🌟 [Blog Post Panel](https://github.com/jencyy/blog-post-panel)
+A comprehensive blogging platform with a fully-featured API and an Entity-Relationship Diagram (ERD) for managing blog posts, comments, and user roles. Built with **Node.js**, **Express.js**, **MongoDB**, and **EJS**, it supports user authentication, blog management, and image uploads, focusing on creating a responsive and animated UI.
 
-### 🌟 [Google Keep Clone](https://github.com/yourusername/google-keep-clone)
+### 🌟 [Google Keep Clone](https://github.com/jencyy/google-keep-clone)
 A note-taking app with Firebase integration, allowing users to create, edit, delete, archive, and restore notes. Includes user authentication and a sleek UI for a seamless experience.
 
-## Technologies I Love 💻
+### 🌟 [Google Contacts Clone App](https://github.com/jencyy/google-contacts-clone)
+A comprehensive contact management app with functionalities to add, edit, and delete contacts. Built with **React**, **Redux**, **Firebase**, and **json-server**, featuring Firebase Storage for image handling.
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
-</div>
+---
 
 ## Tech Stack
 
@@ -41,7 +37,11 @@ A note-taking app with Firebase integration, allowing users to create, edit, del
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+---
+
 ## Let's Connect
 
 - 📧 [Email Me](mailto:jencysodvadiya@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jency-sodvadiya-505812277)
+
+Thank you for visiting my profile! 😊 Feel free to check out my repositories and get in touch!
